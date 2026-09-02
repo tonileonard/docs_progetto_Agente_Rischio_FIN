@@ -1,0 +1,7 @@
+# Report rischio di mercato — luglio 2026
+VaR 1 giorno 99%: **€182.000**; limite VaR: **€200.000**. Metodo: simulazione storica 250 giorni.
+| Fattore | Stress | Perdita |
+|---|---:|---:|
+| EUR/USD | -8% USD | €235.000 |
+| Tassi EUR | +150 bps | €180.000 |
+Limite perdita stress FX: €220.000. Volatilità FX aggiornata al 30/06; shock di luglio non inclusi.

@@ -1,0 +1,14 @@
+VERIFICA BACKUP — SETTEMBRE 2026
+Data: 28/09/2026
+Owner: IT Security
+
+L'esecuzione dei backup dell'archivio audit e del database rischi è stata verificata per il periodo 01/09–27/09.
+
+Risultati:
+- job pianificati: 54
+- job completati: 54
+- ripristini di prova: 2 su 2 completati
+- RPO rilevato: 45 minuti (obiettivo: 1 ora)
+- RTO rilevato: 3 ore e 20 minuti (obiettivo: 4 ore)
+
+I log di esecuzione e i verbali dei ripristini sono archiviati nel repository IT-BCP-09. Nessuna anomalia rilevata.

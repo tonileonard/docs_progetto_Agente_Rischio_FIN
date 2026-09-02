@@ -1,0 +1,8 @@
+SCHEDA OPERAZIONE DERIVATO — IR-204
+Tipo: interest rate swap
+Notional: €3.000.000
+Decorrenza: 01/10/2026
+Scadenza: 01/10/2029
+Controparte: Banca Beta
+
+La posizione è presente nel registro contabile con fair value iniziale pari a €0. La scheda non contiene: conferma firmata della controparte, ISDA/contratto quadro associato, classificazione contabile, motivazione di copertura e approvazione del Risk Manager.

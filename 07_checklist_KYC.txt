@@ -1,0 +1,6 @@
+# Checklist KYC alto rischio — 05/08/2026
+| Cliente | Rischio | Titolare effettivo | Screening | Revisione |
+|---|---|---|---|---|
+| Helios Trade Ltd | Alto | dichiarato | 04/08 | scaduta 31/07 |
+| Argo Ventures Ltd | Alto | non verificato | 04/08 | valida |
+Helios ha una deroga operativa senza data di scadenza né firma AML. Per Argo manca una fonte indipendente sul titolare effettivo.

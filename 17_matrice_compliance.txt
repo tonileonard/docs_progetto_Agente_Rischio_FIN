@@ -1,0 +1,7 @@
+# Matrice conformità — luglio 2026
+| Adempimento | Owner | Evidenza | Stato |
+|---|---|---|---|
+| Riesame limiti | CRO | verbale parziale | incompleto |
+| Report AML comitato | AML Officer | presentazione | conforme |
+| Certificazione covenant | CFO | bozza non firmata | incompleto |
+Il verbale non tratta limite FX; la presentazione AML omette il numero di alert scaduti.

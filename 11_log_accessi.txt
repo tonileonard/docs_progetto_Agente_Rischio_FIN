@@ -1,0 +1,6 @@
+timestamp, utente, ruolo, azione, esito
+
+2026-08-04 23:48, mbianchi, analista, download_clienti, successo
+2026-08-05 00:03, mbianchi, analista, modifica_rating_nordcapital, successo
+2026-08-05 10:20, admin_temp, amministratore, creazione_utente, successo
+2026-08-05 10:22, admin_temp, amministratore, assegnazione_ruolo_compliance, successo

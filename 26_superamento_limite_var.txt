@@ -1,0 +1,7 @@
+CONTROLLO LIMITI RISCHIO DI MERCATO — 03/10/2026
+Limite VaR giornaliero al 99%: €200.000
+VaR calcolato: €218.000
+
+Fattori principali: incremento volatilità EUR/USD e allargamento spread credito.
+
+La procedura richiede notifica al CRO entro un'ora, analisi della causa e piano di rientro entro la fine della giornata. Il calcolo è stato prodotto alle 10:15; non sono presenti né notifica né piano di rientro nel registro eventi.

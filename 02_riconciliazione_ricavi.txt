@@ -1,0 +1,14 @@
+NOTA INTEGRATIVA — RICAVI E CRITERI DI COMPETENZA Q2 2026
+Data: 18/07/2026
+Redatta da: Financial Reporting
+
+I ricavi sono rilevati quando il servizio è svolto e il corrispettivo è misurabile. Per i contratti pluriennali la rilevazione avviene in base allo stato di avanzamento verificato.
+
+| Voce | Importo |
+|---|---:|
+| Ricavi fatturati | €4.760.000 |
+| Note di credito | -€85.000 |
+| Ricavi contratti pluriennali maturati | €95.000 |
+| Totale ricavi riconciliato | €4.770.000 |
+
+La differenza con il report gestionale Q2 è €50.000. La fattura FS-2026-118 (€50.000) è datata 30/06, mentre il contratto indica avvio del servizio il 15/07. Non è disponibile un verbale di accettazione anticipata.

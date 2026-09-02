@@ -1,0 +1,7 @@
+# Policy gestione credito v1.4
+Approvata il 10/01/2026.
+1. Oltre €900.000: approvazione CRO preventiva.
+2. Rating BB o minore: riesame trimestrale.
+3. Garanzie valide per tutta l'esposizione.
+4. Crediti >90 giorni: perdita attesa documentata entro 5 giorni lavorativi.
+5. Concentrazione massima: 25% del patrimonio, salvo deroga scritta.

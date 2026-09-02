@@ -1,0 +1,8 @@
+# Valutazione vendor — CloudData Demo S.r.l.
+Servizio critico: archivio documentale audit. Contratto in scadenza 30/09/2026.
+| Controllo | Esito |
+|---|---|
+| Certificazione sicurezza | attestazione scaduta a giugno |
+| Cifratura | dichiarata, test assente |
+| Piano exit | assente |
+Manca assessment di rinnovo e analisi indisponibilità prolungata.

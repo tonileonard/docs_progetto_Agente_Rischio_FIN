@@ -1,0 +1,10 @@
+REPORT COSTI CONSULENZA — SETTEMBRE 2026
+Fonte A: dashboard procurement
+Fonte B: libro mastro
+
+| KPI | Dashboard procurement | Libro mastro |
+| Costi consulenti esterni | €412.000 | €462.000 |
+| Incidenza su ricavi | 25,1% | 29,1% |
+| Ordini chiusi | 38 | 41 |
+
+La differenza di €50.000 è associata a tre fatture del fornitore Sigma Advisory registrate il 29/09. Due fatture non riportano il riferimento all'ordine di acquisto. Il dashboard è stato aggiornato l'ultima volta il 26/09.

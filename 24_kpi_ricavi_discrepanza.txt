@@ -1,0 +1,10 @@
+CRUSCOTTO KPI RICAVI — SETTEMBRE 2026
+Data di estrazione: 02/10/2026
+
+| Indicatore | Valore dashboard | Valore contabilità generale |
+|---|---:|---:|
+| Ricavi del mese | €1.640.000 | €1.590.000 |
+| Ricavi cumulati YTD | €13.050.000 | €13.000.000 |
+| Margine lordo mese | 38,5% | 37,2% |
+
+La dashboard include €50.000 di ricavo relativo al progetto Delta-7. Nel sistema contabile il progetto è nello stato “fatturazione sospesa” per assenza del verbale di accettazione del cliente. La nota di riconciliazione non è stata compilata.

@@ -1,0 +1,7 @@
+# Controllo feed dati di mercato
+| Fonte | Ultimo aggiornamento | Frequenza | Stato |
+|---|---|---|---|
+| FX-A | 30/06/2026 | giornaliera | anomalo |
+| Tassi-B | 31/07/2026 | giornaliera | conforme |
+| Spread-C | 29/07/2026 | giornaliera | anomalo |
+Ticket IT-490 su FX-A è ancora in lavorazione. Il VaR non documenta il controllo qualità dati.

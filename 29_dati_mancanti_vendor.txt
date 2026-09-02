@@ -1,0 +1,14 @@
+RIESAME VENDOR — DataVision Services Ltd
+Servizio: feed di dati macroeconomici
+Classificazione: rilevante
+Data riesame: 30/09/2026
+
+Il contratto è valido fino al 31/12/2026. Sono disponibili il questionario di autovalutazione e la dichiarazione di localizzazione dati.
+
+Campi obbligatori non compilati:
+- esito della verifica di sicurezza indipendente;
+- data dell'ultimo penetration test;
+- subfornitori critici;
+- responsabile interno dell'uscita dal contratto.
+
+Lo stato del riesame è indicato come “completato” nonostante i campi mancanti.

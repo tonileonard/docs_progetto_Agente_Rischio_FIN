@@ -1,0 +1,8 @@
+# Azioni correttive — 08/08/2026
+| ID | Rilievo | Owner | Scadenza | Stato |
+|---|---|---|---|---|
+| AC-041 | rinnovo garanzia NordCapital | Credit Manager | 31/07 | aperta |
+| AC-042 | ripristino feed FX-A | IT Manager | 05/07 | in corso |
+| AC-043 | firma covenant | CFO | 10/08 | aperta |
+| AC-044 | verifica Argo | AML Officer | 07/08 | chiusa |
+AC-044 non contiene evidenza. Nessuna escalation automatica per azioni scadute.

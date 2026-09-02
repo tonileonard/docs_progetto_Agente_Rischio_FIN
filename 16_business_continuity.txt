@@ -1,0 +1,8 @@
+# Piano continuità operativa v2.1
+Ultimo test: 20/02/2025. Il piano richiede test annuale.
+| Processo | RTO | Esito |
+|---|---:|---|
+| Dashboard rischi | 4 ore | superato |
+| Archivio audit | 8 ore | superato con rilievi |
+| Motore alert AML | 2 ore | non testato |
+Manca il verbale di chiusura dei rilievi e un piano test AML.

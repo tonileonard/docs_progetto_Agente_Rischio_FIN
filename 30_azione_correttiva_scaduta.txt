@@ -1,0 +1,10 @@
+REGISTRO AZIONE CORRETTIVA — AC-057
+Rilievo: mancata riconciliazione tra dashboard ricavi e contabilità generale.
+Owner: Finance Systems Manager
+Data apertura: 05/09/2026
+Scadenza: 20/09/2026
+Stato al 05/10/2026: aperta
+
+Azione prevista: implementare controllo giornaliero sulle variazioni di stato fatture e allegare un report di eccezioni al dashboard.
+
+Non sono registrati avanzamenti, evidenze di completamento, motivazione del ritardo o escalation al responsabile Finance. La procedura prevede escalation automatica dopo cinque giorni di ritardo.

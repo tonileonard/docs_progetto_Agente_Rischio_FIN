@@ -1,0 +1,6 @@
+CONTROLLO LIQUIDITÀ INFRAGIORNALIERA — 04/10/2026
+Soglia minima operativa: €500.000
+Saldo minimo rilevato alle 15:40: €385.000
+Saldo di fine giornata: €540.000
+
+Il minimo infragiornaliero è stato causato da un pagamento anticipato al fornitore Technology Lab (€260.000). La policy tesoreria richiede autorizzazione CFO per pagamenti che causano una violazione della soglia. Nel workflow non risulta una richiesta autorizzativa.

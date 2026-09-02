@@ -1,0 +1,6 @@
+# Monitoraggio covenant — 31/07/2026
+| Covenant | Soglia | Valore | Esito |
+|---|---:|---:|---|
+| Liquidità minima | €500.000 | €610.000 | conforme |
+| Debito netto/EBITDA | 3,50x | 3,18x | conforme |
+Il valore usa il saldo del 31/07, non il forecast di agosto. Certificato bancario da inviare entro 10/08; firma CFO assente.

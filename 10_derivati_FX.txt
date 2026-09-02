@@ -1,0 +1,7 @@
+# Registro derivati FX — 31/07/2026
+| Contratto | Tipo | Notional | Scadenza | Fair value |
+|---|---|---:|---|---:|
+| FX-101 | Forward USD/EUR | USD 1.500.000 | 15/09 | -€32.000 |
+| FX-102 | Forward USD/EUR | USD 1.700.000 | 30/10 | -€41.000 |
+| FX-103 | Opzione USD/EUR | USD 900.000 | 12/12 | €18.000 |
+La conferma FX-102 è solo in bozza. Il collateral CSA non è riportato benché il fair value netto superi €50.000.

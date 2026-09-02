@@ -1,0 +1,7 @@
+# Registro alert AML — agosto 2026
+| ID | Controparte | Motivo | Importo | Stato |
+|---|---|---|---:|---|
+| AML-260801 | Helios | bonifici frazionati | €96.000 | in analisi |
+| AML-260803 | Argo | paese ad alto rischio | €185.000 | chiuso |
+| AML-260806 | Helios | variazione beneficiario | €74.000 | in analisi |
+L'alert chiuso non indica revisore o motivazione. Quelli aperti non hanno data obiettivo.

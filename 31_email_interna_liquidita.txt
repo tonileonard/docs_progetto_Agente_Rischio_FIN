@@ -1,0 +1,14 @@
+DA: cfo@finsecure.example
+A: treasury@finsecure.example; cro@finsecure.example
+DATA: 04/10/2026, 17:25
+OGGETTO: Posizione di liquidità del 4 ottobre
+
+Buonasera,
+
+in base al saldo di fine giornata pari a €540.000, considero la posizione di liquidità adeguata e non ritengo necessaria alcuna comunicazione ulteriore alla banca. Confermo che il pagamento a Technology Lab è stato effettuato per rispettare l'avvio del progetto.
+
+Possiamo aggiornare il forecast nella revisione settimanale.
+
+CFO
+
+Nota di riservatezza: messaggio interno fittizio a solo scopo didattico.

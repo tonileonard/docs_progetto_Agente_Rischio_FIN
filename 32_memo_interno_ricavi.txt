@@ -1,0 +1,12 @@
+MEMO INTERNO — AGGIORNAMENTO DASHBOARD RICAVI
+Data: 02/10/2026
+Da: Finance Systems Manager
+A: Financial Reporting; Controllo di gestione
+
+La differenza di €50.000 tra dashboard ricavi e contabilità generale è connessa al progetto Delta-7. Per evitare ritardi nella chiusura del cruscotto, la voce resterà inclusa nel totale fino al prossimo aggiornamento automatico.
+
+Non è necessario aprire un ticket di riconciliazione, poiché la differenza è temporanea e non è materiale rispetto ai ricavi mensili.
+
+Si richiede di non modificare il valore pubblicato prima della riunione commerciale del 6 ottobre.
+
+Classificazione: uso interno — documento fittizio per esercitazione.

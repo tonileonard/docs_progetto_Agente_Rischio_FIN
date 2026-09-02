@@ -1,0 +1,7 @@
+# Stress test liquidità — agosto 2026
+Scenario avverso: ritardo di 30 giorni del 50% degli incassi con scaduto >60 giorni.
+| Scenario | Minimo saldo | Violazione €500.000 |
+|---|---:|---|
+| Base | €460.000 | sì |
+| Avverso | €120.000 | sì |
+Linea revolving non quantificata; il report del 29/07 usa forecast del 30/06.
