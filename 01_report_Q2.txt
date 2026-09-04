@@ -1,9 +1,0 @@
-# Report gestionale Q2 2026
-**Data:** 15/07/2026 — **Fonte:** Controllo di gestione
-| KPI | Q2 | Budget | Q1 |
-|---|---:|---:|---:|
-| Ricavi | €4.820.000 | €4.600.000 | €4.310.000 |
-| EBITDA | €710.000 | €690.000 | €650.000 |
-| Crediti commerciali | €3.180.000 | €2.700.000 | €2.590.000 |
-| DSO dichiarato | 52 gg | 45 gg | 47 gg |
-NordCapital ha €640.000 di incassi in ritardo. Non è inclusa una perdita attesa aggiornata. Approvazione manageriale: **mancante**.
